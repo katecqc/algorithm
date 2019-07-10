@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/knowledge/StringBM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/StringBM.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/StringBM.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,20 +29,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+            <state relative-caret-position="420">
+              <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/knowledge/StringBM.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2194">
+              <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[210]课程表 II.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1560">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/knowledge/StringBM.js">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="72" column="15" lean-forward="true" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="214">
+              <caret line="67" column="58" lean-forward="true" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -115,6 +134,7 @@
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js" />
         <option value="$PROJECT_DIR$/knowledge/String-BM.js" />
         <option value="$PROJECT_DIR$/knowledge/StringBM.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" />
       </list>
     </option>
   </component>
@@ -125,8 +145,8 @@
     <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1605" />
     <option name="height" value="1400" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -145,11 +165,6 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -189,14 +204,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.StringBM.js">
+  <component name="RunManager" selected="Node.js.[211]添加与搜索单词 - 数据结构设计.js">
     <configuration name="StringBM.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="StringBM.js" working-dir="$PROJECT_DIR$/knowledge">
       <method v="2" />
     </configuration>
     <configuration name="[208]实现 Trie (前缀树).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[208]实现 Trie (前缀树).js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[210]课程表 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[210]课程表 II.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[211]添加与搜索单词 - 数据结构设计.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[211]添加与搜索单词 - 数据结构设计.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <configuration name="[703]数据流中的第K大元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[703]数据流中的第K大元素.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
@@ -207,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[211]添加与搜索单词 - 数据结构设计.js" />
         <item itemvalue="Node.js.StringBM.js" />
         <item itemvalue="Node.js.[208]实现 Trie (前缀树).js" />
         <item itemvalue="Node.js.[720]词典中最长的单词.js" />
         <item itemvalue="Node.js.[703]数据流中的第K大元素.js" />
-        <item itemvalue="Node.js.[210]课程表 II.js" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +244,7 @@
       <workItem from="1561107682219" duration="601000" />
       <workItem from="1561339996031" duration="77303000" />
       <workItem from="1561772240681" duration="52237000" />
-      <workItem from="1562550150566" duration="27751000" />
+      <workItem from="1562550150566" duration="51580000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -245,34 +260,41 @@
       <option name="project" value="LOCAL" />
       <updated>1562636667422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="字符串匹配 — BM算法">
+      <created>1562668911382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562668911382</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163933000" />
+    <option name="totallyTimeSpent" value="187762000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23688525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11486486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32833466" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39905363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32424006" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39857933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49960256" weight="0.32866043" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49960256" weight="0.32833466" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039744" side_tool="true" weight="0.32943925" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" weight="0.29180327" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.112877585" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,7 +304,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="删除重复的文件" />
     <MESSAGE value="Trie（字典树）" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trie（字典树）" />
+    <MESSAGE value="字符串匹配 — BM算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="字符串匹配 — BM算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[24]两两交换链表中的节点.js">
@@ -452,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[210]课程表 II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[236]二叉树的最近公共祖先21585523.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -480,20 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="17509" column="12" selection-start-line="17509" selection-start-column="12" selection-end-line="17509" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[703]数据流中的第K大元素.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -501,13 +503,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[210]课程表 II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17509" column="12" selection-start-line="17509" selection-start-column="12" selection-end-line="17509" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/knowledge/StringBM.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="72" column="15" lean-forward="true" selection-start-line="72" selection-start-column="15" selection-end-line="72" selection-end-column="15" />
+        <state relative-caret-position="2194">
+          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="67" column="58" lean-forward="true" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
         </state>
       </provider>
     </entry>

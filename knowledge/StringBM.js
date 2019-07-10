@@ -20,10 +20,12 @@ class BM {
   }
   bm() {
     this.generateBC() // 构建坏字符哈希表
-    this.generateGS()
+    this.generateGS() // 构建好后缀suffix、prefix数组
     let i = 0
     while (i <= this.n - this.m) {
       let j
+      // j是子串中的坏字符对应的模式串中的字符下标
+      // 模式串中从后往前遍历
       for (j = this.m - 1; j >= 0; j--) {
         if (this.a[i + j] != this.b[j]) break
       }
@@ -59,29 +61,37 @@ class BM {
     this.suffix.fill(-1)
     this.prefix.fill(false)
     for (let i = 0; i < m - 1; i++) { // b[0, i]
+      // 遍历模式串
       let j = i
       let k = 0 // 公共后缀子串长度
+      // 遍历模式串中前、后缀子串匹配的后缀子串以及其子串，如：cab、ab、b
       while (j >= 0 && b[j] === b[m - 1 - k]) {
         j--
         ++k
         this.suffix[k] = j + 1 // j+1 表示公共后缀子串在 b[0, i] 中的起始下标
       }
-      i
       if (j === -1) this.prefix[k] = true // 如果公共后缀子串也是模式串的前缀子串
     }
   }
   moveByGS(j) {
+    // j是子串中的坏字符对应的模式串中的字符下标
     let k = m - 1 - j // 好后缀长度
+    // 如果整个后缀子串与前缀子串匹配，移动到匹配的首字符下标
     if (this.suffix[k] != -1) return j - this.suffix[k] + 1
+    // j+1为好后缀的初始下标
+    // j+1+1表示第一个后缀子串的子串初始下标（第一个元素没有后缀也没有前缀）
     for (let r = j + 2; r <= m - 1; r++) {
+      // 表示后缀子串与前缀子串匹配
       if (this.prefix[m - r]) {
+        // 表示移动到后缀子串与前缀子串匹配的首字符下标
         return r
       }
     }
+    // 以上都没找到可以匹配好后缀及其后缀子串的子串，移动整个模式串的长度
     return m
   }
 }
-const [a, b] = ['fhaasaslasljhfkajlshf', 'aslasl']
+const [a, b] = ['cadfabbcabcabbaccab', 'cabcab']
 const [n, m] = [a.length, b.length]
 let initBm = new BM(a, n, b, m)
 console.log(initBm.bm());
