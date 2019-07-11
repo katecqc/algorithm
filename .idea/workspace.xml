@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="字符串匹配 — BM算法">
-      <change afterPath="$PROJECT_DIR$/knowledge/MapReduce.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" afterDir="false" />
+    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -75,11 +75,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="64" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -158,6 +176,8 @@
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" />
         <option value="$PROJECT_DIR$/knowledge/MapReduce.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js" />
       </list>
     </option>
   </component>
@@ -233,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.[169]求众数.js">
+  <component name="RunManager" selected="Node.js.[53]最大子序和.js">
     <configuration name="MapReduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="MapReduce.js" working-dir="$PROJECT_DIR$/knowledge">
       <method v="2" />
     </configuration>
@@ -243,19 +263,19 @@
     <configuration name="[169]求众数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[169]求众数.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[208]实现 Trie (前缀树).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[208]实现 Trie (前缀树).js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[211]添加与搜索单词 - 数据结构设计.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[211]添加与搜索单词 - 数据结构设计.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[211]添加与搜索单词 - 数据结构设计.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[211]添加与搜索单词 - 数据结构设计.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[53]最大子序和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[53]最大子序和.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[53]最大子序和.js" />
         <item itemvalue="Node.js.[169]求众数.js" />
         <item itemvalue="Node.js.MapReduce.js" />
         <item itemvalue="Node.js.[211]添加与搜索单词 - 数据结构设计.js" />
         <item itemvalue="Node.js.StringBM.js" />
-        <item itemvalue="Node.js.[208]实现 Trie (前缀树).js" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +293,7 @@
       <workItem from="1561107682219" duration="601000" />
       <workItem from="1561339996031" duration="77303000" />
       <workItem from="1561772240681" duration="52237000" />
-      <workItem from="1562550150566" duration="73209000" />
+      <workItem from="1562550150566" duration="78999000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -303,22 +323,29 @@
       <option name="project" value="LOCAL" />
       <updated>1562760839906</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="分治算法">
+      <created>1562836921302</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562836921302</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209391000" />
+    <option name="totallyTimeSpent" value="215181000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32424006" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32424006" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39857933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,7 +368,8 @@
     <MESSAGE value="删除重复的文件" />
     <MESSAGE value="Trie（字典树）" />
     <MESSAGE value="字符串匹配 — BM算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="字符串匹配 — BM算法" />
+    <MESSAGE value="分治算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="分治算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[24]两两交换链表中的节点.js">
@@ -584,10 +612,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[253]会议室 II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        <state relative-caret-position="187">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="64" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
         </state>
       </provider>
     </entry>

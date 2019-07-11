@@ -33,7 +33,6 @@ var majorityElement = function(nums) {
     let result = hash.get(index)
     if (result > (nums.length / 2)) return index
   }
-  return null
 
   function merge(nums, p, r) {
     if (p >= r) {
@@ -46,6 +45,19 @@ var majorityElement = function(nums) {
     merge(nums, q + 1, r)
   }
 };
+
+
+// 散列表解法
+// var majorityElement = function(nums) {
+//   let hash = {}
+//   for (let i of nums) {
+//     hash[i] = hash[i] ? hash[i] + 1 : 1
+//   }
+//   for (let i in hash) {
+//     if (hash[i] >= (nums.length / 2)) return i
+//   }
+// };
+
 
 const nums = [6,5,5]
 console.log(majorityElement(nums));
