@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" afterDir="false" />
+    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="字符串匹配 — BM算法">
+      <change afterPath="$PROJECT_DIR$/knowledge/MapReduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/knowledge/StringBM.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/StringBM.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="510">
               <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
             </state>
           </provider>
@@ -56,11 +57,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="67" column="58" lean-forward="true" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
+            <state relative-caret-position="514">
+              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/knowledge/MapReduce.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -97,6 +116,8 @@
       <find>bubbleDown</find>
       <find>bc</find>
       <find>console</find>
+      <find>set(</find>
+      <find>hash.set</find>
     </findStrings>
     <replaceStrings>
       <replace>height</replace>
@@ -135,6 +156,8 @@
         <option value="$PROJECT_DIR$/knowledge/String-BM.js" />
         <option value="$PROJECT_DIR$/knowledge/StringBM.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" />
+        <option value="$PROJECT_DIR$/knowledge/MapReduce.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" />
       </list>
     </option>
   </component>
@@ -146,7 +169,8 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1605" />
+    <option name="x" value="1038" />
+    <option name="width" value="1522" />
     <option name="height" value="1400" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -165,6 +189,11 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -204,8 +233,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.[211]添加与搜索单词 - 数据结构设计.js">
+  <component name="RunManager" selected="Node.js.[169]求众数.js">
+    <configuration name="MapReduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="MapReduce.js" working-dir="$PROJECT_DIR$/knowledge">
+      <method v="2" />
+    </configuration>
     <configuration name="StringBM.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="StringBM.js" working-dir="$PROJECT_DIR$/knowledge">
+      <method v="2" />
+    </configuration>
+    <configuration name="[169]求众数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[169]求众数.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <configuration name="[208]实现 Trie (前缀树).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[208]实现 Trie (前缀树).js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
@@ -214,19 +249,13 @@
     <configuration name="[211]添加与搜索单词 - 数据结构设计.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[211]添加与搜索单词 - 数据结构设计.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[703]数据流中的第K大元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[703]数据流中的第K大元素.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
-      <method v="2" />
-    </configuration>
-    <configuration name="[720]词典中最长的单词.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[720]词典中最长的单词.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[169]求众数.js" />
+        <item itemvalue="Node.js.MapReduce.js" />
         <item itemvalue="Node.js.[211]添加与搜索单词 - 数据结构设计.js" />
         <item itemvalue="Node.js.StringBM.js" />
         <item itemvalue="Node.js.[208]实现 Trie (前缀树).js" />
-        <item itemvalue="Node.js.[720]词典中最长的单词.js" />
-        <item itemvalue="Node.js.[703]数据流中的第K大元素.js" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +273,7 @@
       <workItem from="1561107682219" duration="601000" />
       <workItem from="1561339996031" duration="77303000" />
       <workItem from="1561772240681" duration="52237000" />
-      <workItem from="1562550150566" duration="51580000" />
+      <workItem from="1562550150566" duration="73209000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -267,17 +296,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562668911382</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="字符串匹配 — BM算法">
+      <created>1562760839906</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562760839906</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187762000" />
+    <option name="totallyTimeSpent" value="209391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11486486" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,7 +330,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.112877585" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.15222576" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -496,24 +532,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[703]数据流中的第K大元素.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="125" selection-start-line="125" selection-end-line="126" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[210]课程表 II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1560">
           <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="17509" column="12" selection-start-line="17509" selection-start-column="12" selection-end-line="17509" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -527,17 +549,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="17509" column="12" selection-start-line="17509" selection-start-column="12" selection-end-line="17509" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="510">
           <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[703]数据流中的第K大元素.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="125" selection-start-line="125" selection-end-line="126" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="67" column="58" lean-forward="true" selection-start-line="67" selection-start-column="58" selection-end-line="67" selection-end-column="58" />
+        <state relative-caret-position="514">
+          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/MapReduce.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
         </state>
       </provider>
     </entry>

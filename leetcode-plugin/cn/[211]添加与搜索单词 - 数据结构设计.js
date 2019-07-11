@@ -45,60 +45,55 @@
  * var param_2 = obj.search(word)
  */
 
+// 时间复杂度（complexity）：
+// 最好为 O(n)：n是字符的长度，没有.的情况直接搜索树
+// 最坏为 O(26^m * n)：n是字符的长度，m是.的数量
+
+function TrieWord() {
+  this.children = {}
+  this.isEnd = false
+}
+
 class WordDictionary {
   constructor() {
-    this.trie = {}
+    this.root = new TrieWord()
   }
   addWord(word) {
-    let curr = this.trie
-    word.split('').forEach(ch => {
-      curr[ch] = curr[ch] || {}
-      curr = curr[ch]
-      return curr
-    })
-    curr.isWord = true
-  }
-  traverse (word) {
-    let curr = this.trie
+    let current = this.root
     for (let i = 0; i < word.length; i++) {
-      if (!curr) return null
-      if (word[i] === '.') {
-        let initIndex = 'a'.charCodeAt()
-        let step = 1
-        for (let j = initIndex; j < initIndex + 26; j++) {
-          let index = String.fromCharCode(j)
-          if (curr[index]) {
-            console.log(curr[index]);
-            console.log('----------------------');
-            curr = curr[index]
-          }
-          if (!curr[index] && step === 26) return null
-          step++
-        }
-        console.log(curr);
-        console.log('_______________________________________________');
-      } else {
-        curr = curr[word[i]]
-        console.log(i, word[i], curr);
-        console.log('-----------------------------------------------');
+      if (!(word[i] in current.children)) {
+        current.children[word[i]] = new TrieWord()
       }
+      current = current.children[word[i]]
     }
-    return curr
+    current.isEnd = true
+  }
+  traverse(word, current, level) {
+    if (!current || (level === word.length && !current.isEnd)) {
+      return false
+    }
+    if (level === word.length && current.isEnd) {
+      return true
+    }
+    if (word[level] === '.') {
+      for (let i = 0; i < 26; i++) {
+        let ch = String.fromCharCode(97 + i)
+        // ！！有.的地方，从.开始继续把后面的字符压进去，可获取后面的字符的父节点
+        if (this.traverse(word, current.children[ch], level + 1)) {
+          return true
+        }
+      }
+      return false
+    }
+    // 非.的字符的处理
+    return this.traverse(word, current.children[word[level]], level + 1)
   }
   search(word) {
-    let node = this.traverse(word)
-    return !!node && !!node.isWord
+    return this.traverse(word, this.root, 0)
   }
 }
 
 let wordDictionary = new WordDictionary()
-// wordDictionary.addWord("bad")
-// wordDictionary.addWord("dad")
-// wordDictionary.addWord("mad")
-// console.log(wordDictionary.search("pad")); // false
-// console.log(wordDictionary.search("bad")); // true
-// console.log(wordDictionary.search(".ad")); // true
-// console.log(wordDictionary.search("b..")); // true
 const opera = ["addWord","addWord","addWord","addWord","search","search","addWord","search","search","search","search","search","search"]
 const data = [["at"],["and"],["an"],["add"],["a"],[".at"],["bat"],[".at"],["an."],["a.d."],["b."],["a.d"],["."]]
 for (let i = 0; i < opera.length; i++) {
