@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
+    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="分治算法">
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[455]分发饼干.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[714]买卖股票的最佳时机含手续费.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,40 +22,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[720]词典中最长的单词.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/StringBM.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2194">
-              <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[210]课程表 II.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1560">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -61,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="514">
-              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -70,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/knowledge/MapReduce.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="277">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -79,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -93,11 +66,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+            <state relative-caret-position="351">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="72" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[455]分发饼干.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[714]买卖股票的最佳时机含手续费.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -178,6 +178,9 @@
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[455]分发饼干.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[714]买卖股票的最佳时机含手续费.js" />
       </list>
     </option>
   </component>
@@ -188,9 +191,8 @@
     <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1038" />
-    <option name="width" value="1522" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
     <option name="height" value="1400" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -235,7 +237,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../changhang-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -253,29 +255,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.[53]最大子序和.js">
-    <configuration name="MapReduce.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="MapReduce.js" working-dir="$PROJECT_DIR$/knowledge">
+  <component name="RunManager" selected="Node.js.[714]买卖股票的最佳时机含手续费.js">
+    <configuration name="[122]买卖股票的最佳时机 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[122]买卖股票的最佳时机 II.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="StringBM.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="StringBM.js" working-dir="$PROJECT_DIR$/knowledge">
+    <configuration name="[240]搜索二维矩阵 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[240]搜索二维矩阵 II.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[169]求众数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[169]求众数.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
-      <method v="2" />
-    </configuration>
-    <configuration name="[211]添加与搜索单词 - 数据结构设计.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[211]添加与搜索单词 - 数据结构设计.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[455]分发饼干.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[455]分发饼干.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <configuration name="[53]最大子序和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[53]最大子序和.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
+    <configuration name="[714]买卖股票的最佳时机含手续费.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[714]买卖股票的最佳时机含手续费.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[714]买卖股票的最佳时机含手续费.js" />
+        <item itemvalue="Node.js.[122]买卖股票的最佳时机 II.js" />
+        <item itemvalue="Node.js.[455]分发饼干.js" />
+        <item itemvalue="Node.js.[240]搜索二维矩阵 II.js" />
         <item itemvalue="Node.js.[53]最大子序和.js" />
-        <item itemvalue="Node.js.[169]求众数.js" />
-        <item itemvalue="Node.js.MapReduce.js" />
-        <item itemvalue="Node.js.[211]添加与搜索单词 - 数据结构设计.js" />
-        <item itemvalue="Node.js.StringBM.js" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +295,7 @@
       <workItem from="1561107682219" duration="601000" />
       <workItem from="1561339996031" duration="77303000" />
       <workItem from="1561772240681" duration="52237000" />
-      <workItem from="1562550150566" duration="78999000" />
+      <workItem from="1562550150566" duration="98694000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -330,22 +332,29 @@
       <option name="project" value="LOCAL" />
       <updated>1562836921302</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="分治算法练习">
+      <created>1562844009084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562844009084</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="215181000" />
+    <option name="totallyTimeSpent" value="234876000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10572337" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.37704918" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32424006" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32833466" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39857933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -357,7 +366,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.15222576" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.31393442" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +378,8 @@
     <MESSAGE value="Trie（字典树）" />
     <MESSAGE value="字符串匹配 — BM算法" />
     <MESSAGE value="分治算法" />
-    <option name="LAST_COMMIT_MESSAGE" value="分治算法" />
+    <MESSAGE value="分治算法练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="分治算法练习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[24]两两交换链表中的节点.js">
@@ -556,7 +566,7 @@
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[720]词典中最长的单词.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <caret line="43" column="14" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -570,7 +580,7 @@
     <entry file="file://$PROJECT_DIR$/knowledge/StringBM.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2194">
-          <caret line="76" column="24" lean-forward="true" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
+          <caret line="76" column="24" selection-start-line="76" selection-start-column="24" selection-end-line="76" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -587,7 +597,7 @@
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="51" column="3" lean-forward="true" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
+          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -601,14 +611,14 @@
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/knowledge/MapReduce.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -622,7 +632,7 @@
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -635,8 +645,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        <state relative-caret-position="351">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="72" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[455]分发饼干.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[714]买卖股票的最佳时机含手续费.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="3" lean-forward="true" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
         </state>
       </provider>
     </entry>
