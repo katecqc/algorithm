@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/knowledge/Backtracking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/knowledge/nQueen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[784]字母大小写全排列.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/Backtracking.js" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/Backtracking.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,73 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/MapReduce.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="64" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="72" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[455]分发饼干.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[714]买卖股票的最佳时机含手续费.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/knowledge/Backtracking.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="463">
+              <caret line="126" column="37" selection-start-line="126" selection-start-column="37" selection-end-line="126" selection-end-column="37" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -91,20 +32,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[784]字母大小写全排列.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[703]数据流中的第K大元素.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="125" selection-start-line="125" selection-end-line="126" />
+            <state relative-caret-position="543">
+              <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,9 +66,10 @@
       <find>bubbleUp</find>
       <find>bubbleDown</find>
       <find>bc</find>
-      <find>console</find>
       <find>set(</find>
       <find>hash.set</find>
+      <find>console</find>
+      <find>Infi</find>
     </findStrings>
     <replaceStrings>
       <replace>height</replace>
@@ -180,6 +116,7 @@
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[714]买卖股票的最佳时机含手续费.js" />
         <option value="$PROJECT_DIR$/knowledge/Backtracking.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[784]字母大小写全排列.js" />
       </list>
     </option>
   </component>
@@ -190,7 +127,8 @@
     <other-services-enabled>false</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1280" />
     <option name="width" value="1280" />
     <option name="height" value="1400" />
   </component>
@@ -254,14 +192,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Backtracking.js">
+  <component name="RunManager" selected="Node.js.[784]字母大小写全排列.js">
     <configuration name="Backtracking.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="Backtracking.js" working-dir="$PROJECT_DIR$/knowledge">
       <method v="2" />
     </configuration>
     <configuration name="[122]买卖股票的最佳时机 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[122]买卖股票的最佳时机 II.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
-      <method v="2" />
-    </configuration>
-    <configuration name="[240]搜索二维矩阵 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[240]搜索二维矩阵 II.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <configuration name="[455]分发饼干.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[455]分发饼干.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
@@ -270,13 +205,16 @@
     <configuration name="[714]买卖股票的最佳时机含手续费.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[714]买卖股票的最佳时机含手续费.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
+    <configuration name="[784]字母大小写全排列.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[784]字母大小写全排列.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[784]字母大小写全排列.js" />
         <item itemvalue="Node.js.Backtracking.js" />
         <item itemvalue="Node.js.[714]买卖股票的最佳时机含手续费.js" />
         <item itemvalue="Node.js.[122]买卖股票的最佳时机 II.js" />
         <item itemvalue="Node.js.[455]分发饼干.js" />
-        <item itemvalue="Node.js.[240]搜索二维矩阵 II.js" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +232,7 @@
       <workItem from="1561107682219" duration="601000" />
       <workItem from="1561339996031" duration="77303000" />
       <workItem from="1561772240681" duration="52237000" />
-      <workItem from="1562550150566" duration="104341000" />
+      <workItem from="1562550150566" duration="127839000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -345,23 +283,30 @@
       <option name="project" value="LOCAL" />
       <updated>1562924652523</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="回溯算法">
+      <created>1562931011830</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562931011830</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240523000" />
+    <option name="totallyTimeSpent" value="264021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3057377" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15421304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32833466" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39857933" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31956354" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39828527" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -372,7 +317,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.31393442" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.15222576" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +331,8 @@
     <MESSAGE value="分治算法" />
     <MESSAGE value="分治算法练习" />
     <MESSAGE value="贪心算法、动态规划练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="贪心算法、动态规划练习" />
+    <MESSAGE value="回溯算法" />
+    <option name="LAST_COMMIT_MESSAGE" value="回溯算法" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[24]两两交换链表中的节点.js">
@@ -678,10 +624,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/nQueen.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/knowledge/Backtracking.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="463">
+          <caret line="126" column="37" selection-start-line="126" selection-start-column="37" selection-end-line="126" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[784]字母大小写全排列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
