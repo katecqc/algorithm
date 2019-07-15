@@ -77,6 +77,31 @@ console.log(minDistDP2(matrix, 4));
 // 单词纠错功能（字符串编辑距离）
 function lwstDP(a, n, b, m) {
   let minDist = Array.from({length: n}, () => [])
+  for (let j = 0; j < m; j++) { // 初始化第  0 行：a[0..0] 与 b[0..j] 的编辑距离
+    if (a[0] == b[j]) minDist[0][j] = j
+    else if (j != 0) minDist[0][j] = minDist[0][j - 1] + 1
+    else minDist[0][j] = 1
+  }
+  for (let i = 0; i < n; i++) { // 初始化第 0 列：a[0..i] 与 b[0..0] 的编辑距离
+    if (a[i] == b[0]) minDist[i][0] = i
+    else if (i > 0) minDist[i][0] = minDist[i - 1][0] + 1
+    else minDist[i][0] = 1
+  }
+  for (let i = 1; i < n; i++) { // 按行填表
+    for (let j = 1; j < m; j++) {
+      if (a[i] != b[j]) {
+        minDist[i][j] = Math.min(minDist[i - 1][j] + 1,
+          minDist[i][j - 1] + 1,
+          minDist[i - 1][j - 1] + 1)
+      } else {
+        minDist[i][j] = Math.min(
+          minDist[i - 1][j] + 1,
+          minDist[i][j - 1] + 1,
+          minDist[i - 1][j - 1])
+      }
+    }
+    return minDist[n - 1][m - 1]
+  }
 }
 
 
