@@ -24,6 +24,10 @@
  * @param {string} S
  * @return {string[]}
  */
+
+// 时间复杂度：2^n
+// 空间复杂度：2^n
+
 var letterCasePermutation = function(S) {
   let res = []
   dfs(S.split(''), 0)
@@ -31,14 +35,14 @@ var letterCasePermutation = function(S) {
 
   function dfs(s, i) {
     if (i == s.length) {
-      res.push(String.fromCharCode(s.join(',')))
+      res.push(s.join(''))
       return
     }
     dfs(s, i + 1, res)
     if (s[i] < '0' || s[i] > '9') {
-      console.log(s[i]);
-      s[i] = s[i].charCodeAt(0)
+      s[i] = s[i].charCodeAt()
       s[i] ^= (1 << 5)
+      s[i] = String.fromCharCode(s[i])
       dfs(s, i + 1, res)
     }
   }

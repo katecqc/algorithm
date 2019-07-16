@@ -69,15 +69,23 @@ function minDistDP2(matrix, n) {
 
 
 let matrix = [[1, 3, 5, 9], [2, 1, 3, 4], [5, 2, 6, 7], [6, 8, 4, 3]]
-console.log(minDistDP2(matrix, 4));
+// console.log(minDistDP2(matrix, 4));
 
 
 
-// 经典应用：
-// 单词纠错功能（字符串编辑距离）
+/*
+  经典应用：单词纠错功能（字符串编辑距离）
+  常用计算方式：
+  1. 莱文斯坦距离：增加、删除、替换字符，表示两个字符串差异的大小
+  2. 最长公共子串长度：增加、删除字符，求的是两个字符串相似程度的大小
+ */
+
+
+// 莱文斯坦距离
+
 function lwstDP(a, n, b, m) {
   let minDist = Array.from({length: n}, () => [])
-  for (let j = 0; j < m; j++) { // 初始化第  0 行：a[0..0] 与 b[0..j] 的编辑距离
+  for (let j = 0; j < m; j++) { // 初始化第 0 行：a[0..0] 与 b[0..j] 的编辑距离
     if (a[0] == b[j]) minDist[0][j] = j
     else if (j != 0) minDist[0][j] = minDist[0][j - 1] + 1
     else minDist[0][j] = 1
@@ -90,19 +98,66 @@ function lwstDP(a, n, b, m) {
   for (let i = 1; i < n; i++) { // 按行填表
     for (let j = 1; j < m; j++) {
       if (a[i] != b[j]) {
-        minDist[i][j] = Math.min(minDist[i - 1][j] + 1,
-          minDist[i][j - 1] + 1,
-          minDist[i - 1][j - 1] + 1)
+        minDist[i][j] = min(minDist[i - 1][j] + 1, minDist[i][j - 1] + 1, minDist[i - 1][j - 1] + 1)
       } else {
-        minDist[i][j] = Math.min(
-          minDist[i - 1][j] + 1,
-          minDist[i][j - 1] + 1,
-          minDist[i - 1][j - 1])
+        minDist[i][j] = min(minDist[i - 1][j] + 1, minDist[i][j - 1] + 1, minDist[i - 1][j - 1])
       }
     }
-    return minDist[n - 1][m - 1]
+  }
+  console.log(minDist);
+  return minDist[n - 1][m - 1]
+
+  function min(x, y, z) {
+    let minv = Infinity
+    if (x < minv) minv = x
+    if (y < minv) minv = y
+    if (z < minv) minv = z
+    return minv
   }
 }
+
+
+
+// 最长公共子串长度
+function lcs(a, n, b, m) {
+  let lgtCommon = Array.from({length: n}, () => [])
+  for (let j = 0; j < m; j++) { // 初始化第 0 行
+    if (a[0] == b[j]) lgtCommon[0][j] = 1
+    else if (j != 0) lgtCommon[0][j] = lgtCommon[0][j - 1]
+    else lgtCommon[0][j] = 0
+  }
+  for (let i = 0; i < n; i++) { // 初始化第 0 列
+    if (a[i] == b[0]) lgtCommon[i][0] = 1
+    else if (i != 0) lgtCommon[i][0] = lgtCommon[i - 1][0]
+    else lgtCommon[i][0] = 0
+  }
+  for (let i = 1; i < n; i++) {
+    for (let j = 1; j < m; j++) {
+      if (a[i] == b[j]) {
+        lgtCommon[i][j] = max(lgtCommon[i - 1][j], lgtCommon[i][j - 1], lgtCommon[i - 1][j - 1] + 1)
+      } else {
+        lgtCommon[i][j] = max(lgtCommon[i - 1][j], lgtCommon[i][j - 1], lgtCommon[i - 1][j - 1])
+      }
+    }
+  }
+  console.log(lgtCommon);
+
+  return lgtCommon[n - 1][m - 1]
+
+  function max(x, y, z) {
+    let maxv = 0
+    if (x > maxv) maxv = x
+    if (y > maxv) maxv = y
+    if (z > maxv) maxv = z
+    return maxv
+  }
+}
+
+
+const a = 'mitcmu'
+const b = 'mtacnu'
+console.log(lwstDP(a, a.length, b, b.length));
+console.log(lcs(a, a.length, b, b.length));
 
 
 
