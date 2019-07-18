@@ -18,6 +18,10 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
+
+// 时间复杂度：O(N!) <= O <= O(N * N!)
+// 空间复杂度：O(N!)
+
 var permute = function(nums) {
   let res = new Set()
   backtracking([], nums)
@@ -30,8 +34,7 @@ var permute = function(nums) {
     }
     for (let i = 0; i < remaining.length; i++) {
       current.push(remaining[i])
-      backtracking(current.slice(), remaining.slice(0, i).concat(remaining.slice(i + 1)))
-      console.log(current);
+      backtracking(current.slice(), remaining.slice(0, i).concat(remaining.slice(i + 1))) // Recurse with inserted element removed
       current.pop()
     }
   }

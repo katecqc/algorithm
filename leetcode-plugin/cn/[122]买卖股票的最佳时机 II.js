@@ -48,5 +48,18 @@ var maxProfit = function(prices) {
   return maxProfit
 };
 
-const prices = [1,2,3,4,5]
+
+var maxProfit = function(prices) {
+  let n = prices.length
+  if (!n) return 0
+  let dp_i_0 = 0
+  let dp_i_1 = -prices[0]
+  for (let i = 1; i < prices.length; i++) {
+    dp_i_0 = Math.max(dp_i_0, dp_i_1 + prices[i])
+    dp_i_1 = Math.max(dp_i_1, dp_i_0 - prices[i])
+  }
+  return dp_i_0
+};
+
+const prices = [1,2,7,4,5]
 console.log(maxProfit(prices));
