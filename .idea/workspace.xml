@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[121]买卖股票的最佳时机.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[123]买卖股票的最佳时机 III.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[188]买卖股票的最佳时机 IV.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[309]最佳买卖股票时机含冷冻期.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[70]爬楼梯.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[77]组合.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[337]打家劫舍 III.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[62]不同路径.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[46]全排列.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[46]全排列.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" afterDir="false" />
     </list>
@@ -30,20 +25,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="420">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[337]打家劫舍 III.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[62]不同路径.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+            <state relative-caret-position="364">
+              <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -130,8 +149,11 @@
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[309]最佳买卖股票时机含冷冻期.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[123]买卖股票的最佳时机 III.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[188]买卖股票的最佳时机 IV.js" />
-        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[337]打家劫舍 III.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[62]不同路径.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js" />
       </list>
     </option>
   </component>
@@ -206,29 +228,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.[213]打家劫舍 II.js">
-    <configuration name="[123]买卖股票的最佳时机 III.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[123]买卖股票的最佳时机 III.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
-      <method v="2" />
-    </configuration>
-    <configuration name="[188]买卖股票的最佳时机 IV.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[188]买卖股票的最佳时机 IV.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.[63]不同路径 II.js">
     <configuration name="[198]打家劫舍.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[198]打家劫舍.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <configuration name="[213]打家劫舍 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[213]打家劫舍 II.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[309]最佳买卖股票时机含冷冻期.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[309]最佳买卖股票时机含冷冻期.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[337]打家劫舍 III.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[337]打家劫舍 III.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+      <method v="2" />
+    </configuration>
+    <configuration name="[62]不同路径.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[62]不同路径.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+      <method v="2" />
+    </configuration>
+    <configuration name="[63]不同路径 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[63]不同路径 II.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[63]不同路径 II.js" />
+        <item itemvalue="Node.js.[62]不同路径.js" />
+        <item itemvalue="Node.js.[337]打家劫舍 III.js" />
         <item itemvalue="Node.js.[213]打家劫舍 II.js" />
         <item itemvalue="Node.js.[198]打家劫舍.js" />
-        <item itemvalue="Node.js.[188]买卖股票的最佳时机 IV.js" />
-        <item itemvalue="Node.js.[123]买卖股票的最佳时机 III.js" />
-        <item itemvalue="Node.js.[309]最佳买卖股票时机含冷冻期.js" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +269,8 @@
       <workItem from="1561339996031" duration="77303000" />
       <workItem from="1561772240681" duration="52237000" />
       <workItem from="1562550150566" duration="127887000" />
-      <workItem from="1563154090669" duration="86716000" />
+      <workItem from="1563154090669" duration="98327000" />
+      <workItem from="1563759489845" duration="645000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -333,17 +356,24 @@
       <option name="project" value="LOCAL" />
       <updated>1563273423069</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="动态规划练习">
+      <created>1563449210166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563449210166</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="350785000" />
+    <option name="totallyTimeSpent" value="363041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15143085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13871224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -360,7 +390,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.1526232" />
+      <window_info active="true" anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.1526232" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,30 +409,10 @@
     <MESSAGE value="动态规划" />
     <MESSAGE value="动态规划之编辑距离" />
     <MESSAGE value="编辑距离例题 + 回溯算法练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="编辑距离例题 + 回溯算法练习" />
+    <MESSAGE value="动态规划练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态规划练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[242]有效的字母异位词.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[49]字母异位词分组.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[104]二叉树的最大深度.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[441]排列硬币21373517.js" />
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[1021]删除最外层的括号.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -710,18 +720,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="420">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="210">
+          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[337]打家劫舍 III.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="42" column="3" lean-forward="true" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[62]不同路径.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
         </state>
       </provider>
     </entry>

@@ -21,6 +21,10 @@
  * @param {number[]} nums
  * @return {number}
  */
+
+// 时间复杂度：O(2(n-1))，即O(n)
+// 空间复杂度：O(1)
+
 var rob = function(nums) {
   let n = nums.length
   if (n <= 1) return nums[0] ? nums[0] : 0
