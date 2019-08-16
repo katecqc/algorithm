@@ -34,3 +34,22 @@ var missingNumber = function(nums) {
   }
   return missing
 };
+
+
+function f() {
+  let obj = {
+    key1: {
+      a: 1,
+      b: 2,
+    },
+    key2: {
+      c: 3,
+      d: 4,
+    }
+  }
+  console.log(Object.entries(obj));
+  for (let i of Object.entries(obj)) {
+    console.log(i[0]);
+  }
+}
+f()
