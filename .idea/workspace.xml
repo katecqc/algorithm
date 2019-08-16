@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[38]报数.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[268]缺失数字.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[268]缺失数字.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,8 +46,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+            <state relative-caret-position="510">
+              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -323,7 +319,7 @@
       <workItem from="1563759489845" duration="57693000" />
       <workItem from="1564396659555" duration="39996000" />
       <workItem from="1565254812720" duration="19000" />
-      <workItem from="1565919908830" duration="9871000" />
+      <workItem from="1565919908830" duration="10388000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -472,11 +468,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564991368432</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="leetcode top面试题练习">
+      <created>1565953233662</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1565953233662</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="469975000" />
+    <option name="totallyTimeSpent" value="470492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -911,8 +914,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        <state relative-caret-position="510">
+          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
