@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="位运算代码注释">
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[155]最小栈.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[160]相交链表.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[190]颠倒二进制位.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[217]存在重复元素.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[326]3的幂.js" afterDir="false" />
+    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[125]验证回文串.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[141]环形链表.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[387]字符串中的第一个唯一字符.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[66]加一.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -67,50 +64,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[326]3的幂.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+            <state relative-caret-position="780">
+              <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[344]反转字符串.js">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[141]环形链表.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="47" selection-start-line="47" selection-end-line="48" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="597">
+              <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[118]杨辉三角.js">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[125]验证回文串.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+            <state relative-caret-position="390">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[412]Fizz Buzz.js">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[66]加一.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
+            <state relative-caret-position="510">
+              <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[13]罗马数字转整数.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[387]字符串中的第一个唯一字符.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
+            <state relative-caret-position="300">
+              <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -155,10 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/knowledge/String-BM.js" />
-        <option value="$PROJECT_DIR$/knowledge/StringBM.js" />
-        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" />
-        <option value="$PROJECT_DIR$/knowledge/MapReduce.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js" />
@@ -206,6 +196,10 @@
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[160]相交链表.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[190]颠倒二进制位.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[326]3的幂.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[141]环形链表.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[125]验证回文串.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[66]加一.js" />
+        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[387]字符串中的第一个唯一字符.js" />
       </list>
     </option>
   </component>
@@ -280,29 +274,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.[326]3的幂.js">
-    <configuration name="[155]最小栈.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[155]最小栈.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+  <component name="RunManager" selected="Node.js.[387]字符串中的第一个唯一字符.js">
+    <configuration name="[125]验证回文串.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[125]验证回文串.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <configuration name="[190]颠倒二进制位.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[190]颠倒二进制位.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[217]存在重复元素.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[217]存在重复元素.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
-      <method v="2" />
-    </configuration>
     <configuration name="[326]3的幂.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[326]3的幂.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[371]两整数之和.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[371]两整数之和.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[387]字符串中的第一个唯一字符.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[387]字符串中的第一个唯一字符.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+      <method v="2" />
+    </configuration>
+    <configuration name="[66]加一.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[66]加一.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[387]字符串中的第一个唯一字符.js" />
+        <item itemvalue="Node.js.[66]加一.js" />
+        <item itemvalue="Node.js.[125]验证回文串.js" />
         <item itemvalue="Node.js.[326]3的幂.js" />
         <item itemvalue="Node.js.[190]颠倒二进制位.js" />
-        <item itemvalue="Node.js.[155]最小栈.js" />
-        <item itemvalue="Node.js.[217]存在重复元素.js" />
-        <item itemvalue="Node.js.[371]两整数之和.js" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +320,7 @@
       <workItem from="1564396659555" duration="39996000" />
       <workItem from="1565254812720" duration="19000" />
       <workItem from="1565919908830" duration="10459000" />
-      <workItem from="1566182376002" duration="18992000" />
+      <workItem from="1566182376002" duration="38582000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -489,11 +483,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565953794397</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="LeetCode Top面试题练习">
+      <created>1566212681830</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1566212681830</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="489555000" />
+    <option name="totallyTimeSpent" value="509145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -504,7 +505,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960256" visible="true" weight="0.33047545" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960256" visible="true" weight="0.3289166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39828527" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -542,37 +543,10 @@
     <MESSAGE value="leetcode 练习" />
     <MESSAGE value="leetcode top面试题练习" />
     <MESSAGE value="位运算代码注释" />
-    <option name="LAST_COMMIT_MESSAGE" value="位运算代码注释" />
+    <MESSAGE value="LeetCode Top面试题练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode Top面试题练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/knowledge/MapReduce.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="64" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="72" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[455]分发饼干.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="47" column="42" lean-forward="true" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/knowledge/nQueen.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -926,8 +900,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[326]3的幂.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="53" column="3" lean-forward="true" selection-start-line="53" selection-start-column="3" selection-end-line="53" selection-end-column="3" />
+        <state relative-caret-position="780">
+          <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[141]环形链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[125]验证回文串.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[66]加一.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[387]字符串中的第一个唯一字符.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
         </state>
       </provider>
     </entry>
