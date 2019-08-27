@@ -36,7 +36,7 @@
   空间复杂度：O(1)
  */
 
-var mySqrt = function(x) {
+var mySqrt2 = function(x) {
   if (x === 0) { // 0 - 4 的值需要特殊处理
     return 0
   } else if (x < 4) {
