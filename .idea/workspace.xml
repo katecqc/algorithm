@@ -1,11 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode-plugin/cn/[48]旋转图像.js" afterDir="false" />
+    <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="LeetCode Top面试题练习">
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[101]对称二叉树.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[101]对称二叉树.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[1021]删除最外层的括号.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1021]删除最外层的括号.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[104]二叉树的最大深度.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[104]二叉树的最大深度.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[108]将有序数组转换为二叉搜索树.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[108]将有序数组转换为二叉搜索树.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[111]二叉树的最小深度.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[111]二叉树的最小深度.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[118]杨辉三角.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[118]杨辉三角.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[121]买卖股票的最佳时机.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[121]买卖股票的最佳时机.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[122]买卖股票的最佳时机 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[123]买卖股票的最佳时机 III.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[123]买卖股票的最佳时机 III.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[125]验证回文串.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[125]验证回文串.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[136]只出现一次的数字.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[136]只出现一次的数字.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[13]罗马数字转整数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[13]罗马数字转整数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[141]环形链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[141]环形链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[148]排序链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[148]排序链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[14]最长公共前缀.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[14]最长公共前缀.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[155]最小栈.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[155]最小栈.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[160]相交链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[160]相交链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[169]求众数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[172]阶乘后的零.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[172]阶乘后的零.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[188]买卖股票的最佳时机 IV.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[188]买卖股票的最佳时机 IV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[190]颠倒二进制位.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[190]颠倒二进制位.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[191]位1的个数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[191]位1的个数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[198]打家劫舍.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[1]两数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[200]岛屿数量.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[200]岛屿数量.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[202]快乐数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[202]快乐数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[204]计数质数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[204]计数质数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[208]实现 Trie (前缀树).js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[208]实现 Trie (前缀树).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[20]有效的括号.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[20]有效的括号.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[210]课程表 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[210]课程表 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[211]添加与搜索单词 - 数据结构设计.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[211]添加与搜索单词 - 数据结构设计.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[213]打家劫舍 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[217]存在重复元素.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[217]存在重复元素.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[21]合并两个有序链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[21]合并两个有序链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[22]括号生成.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[22]括号生成.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[230]二叉搜索树中第K小的元素.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[230]二叉搜索树中第K小的元素.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[234]回文链表.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[234]回文链表.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[235]二叉搜索树的最近公共祖先.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[235]二叉搜索树的最近公共祖先.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[236]二叉树的最近公共祖先.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[236]二叉树的最近公共祖先.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[240]搜索二维矩阵 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[240]搜索二维矩阵 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[242]有效的字母异位词.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[242]有效的字母异位词.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[24]两两交换链表中的节点.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[24]两两交换链表中的节点.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[253]会议室 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[253]会议室 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[268]缺失数字.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[268]缺失数字.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[26]删除排序数组中的重复项.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[26]删除排序数组中的重复项.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[283]移动零.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[283]移动零.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[289]生命游戏.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[289]生命游戏.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[28]实现 strStr().js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[28]实现 strStr().js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[309]最佳买卖股票时机含冷冻期.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[309]最佳买卖股票时机含冷冻期.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[324]摆动排序 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[324]摆动排序 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[326]3的幂.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[326]3的幂.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[337]打家劫舍 III.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[337]打家劫舍 III.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[344]反转字符串.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[344]反转字符串.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[350]两个数组的交集 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[350]两个数组的交集 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[371]两整数之和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[387]字符串中的第一个唯一字符.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[387]字符串中的第一个唯一字符.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[38]报数.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[38]报数.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[3]无重复字符的最长子串.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3]无重复字符的最长子串.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[412]Fizz Buzz.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[412]Fizz Buzz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[441]排列硬币.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[441]排列硬币.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[455]分发饼干.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[455]分发饼干.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[46]全排列.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[46]全排列.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[48]旋转图像.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[48]旋转图像.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[49]字母异位词分组.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[49]字母异位词分组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[51]N皇后.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[51]N皇后.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[53]最大子序和.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[53]最大子序和.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[56]合并区间.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[56]合并区间.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[62]不同路径.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[62]不同路径.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[63]不同路径 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[66]加一.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[66]加一.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[69]x 的平方根.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[69]x 的平方根.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[703]数据流中的第K大元素.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[703]数据流中的第K大元素.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[70]爬楼梯.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[70]爬楼梯.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[714]买卖股票的最佳时机含手续费.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[714]买卖股票的最佳时机含手续费.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[720]词典中最长的单词.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[720]词典中最长的单词.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[726]原子的数量.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[726]原子的数量.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[75]颜色分类.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[75]颜色分类.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[77]组合.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[77]组合.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[783]二叉搜索树结点最小距离.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[783]二叉搜索树结点最小距离.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[784]字母大小写全排列.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[784]字母大小写全排列.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[78]子集.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[78]子集.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[7]整数反转.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[7]整数反转.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[84]柱状图中最大的矩形.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[84]柱状图中最大的矩形.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[88]合并两个有序数组.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[88]合并两个有序数组.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[94]二叉树的中序遍历.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[94]二叉树的中序遍历.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/[98]验证二叉搜索树.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[98]验证二叉搜索树.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode-plugin/cn/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/translation.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,92 +104,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[234]回文链表.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[69]x 的平方根.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[14]最长公共前缀.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[7]整数反转.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[204]计数质数.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[22]括号生成.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[94]二叉树的中序遍历.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[230]二叉搜索树中第K小的元素.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1410">
-              <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[289]生命游戏.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[48]旋转图像.js">
+        <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+            <state relative-caret-position="592">
+              <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -148,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode-plugin/cn/[122]买卖股票的最佳时机 II.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[309]最佳买卖股票时机含冷冻期.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[123]买卖股票的最佳时机 III.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[188]买卖股票的最佳时机 IV.js" />
@@ -199,6 +203,7 @@
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[230]二叉搜索树中第K小的元素.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[289]生命游戏.js" />
         <option value="$PROJECT_DIR$/leetcode-plugin/cn/[48]旋转图像.js" />
+        <option value="$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.js" />
       </list>
     </option>
   </component>
@@ -210,8 +215,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1461" />
-    <option name="height" value="1400" />
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -237,13 +244,13 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode-plugin" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode-plugin" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="editor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -255,11 +262,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../public-component-college" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/editor/cn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\coding\leetcode\leetcode\editor\cn" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -320,7 +332,12 @@
       <workItem from="1565254812720" duration="19000" />
       <workItem from="1565919908830" duration="10459000" />
       <workItem from="1566182376002" duration="104390000" />
-      <workItem from="1568199586928" duration="1553000" />
+      <workItem from="1568199586928" duration="4093000" />
+      <workItem from="1568597155091" duration="1211000" />
+      <workItem from="1568890396938" duration="11000" />
+      <workItem from="1576146152829" duration="107000" />
+      <workItem from="1576146313868" duration="1106000" />
+      <workItem from="1576147434437" duration="1241000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -525,29 +542,36 @@
       <option name="project" value="LOCAL" />
       <updated>1566904286360</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="LeetCode Top面试题练习">
+      <created>1568202775882</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1568202775882</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="576506000" />
+    <option name="totallyTimeSpent" value="582722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12678856" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13076311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960256" visible="true" weight="0.33982852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" weight="0.33982852" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39828527" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32969603" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49960256" weight="0.33593142" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49960256" visible="true" weight="0.33593142" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039744" side_tool="true" weight="0.335152" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -582,58 +606,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="LeetCode Top面试题练习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[188]买卖股票的最佳时机 IV.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[198]打家劫舍.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="24" selection-start-line="24" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[337]打家劫舍 III.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[62]不同路径.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[703]数据流中的第K大元素.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="150" column="6" selection-start-line="150" selection-start-column="6" selection-end-line="150" selection-end-column="6" />
-          <folding>
-            <element signature="n#PriorityQueue#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[213]打家劫舍 II.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[337]打家劫舍 III.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[62]不同路径.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[703]数据流中的第K大元素.js" />
     <entry file="file://$PROJECT_DIR$/knowledge/MergeSort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -644,57 +621,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[350]两个数组的交集 II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[148]排序链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[75]颜色分类.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[56]合并区间.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[253]会议室 II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[78]子集.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[350]两个数组的交集 II.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[148]排序链表.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[75]颜色分类.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[56]合并区间.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[253]会议室 II.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[78]子集.js" />
     <entry file="file://$PROJECT_DIR$/knowledge/QuickSort.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1710">
@@ -705,258 +637,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[324]摆动排序 II.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[324]摆动排序 II.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[108]将有序数组转换为二叉搜索树.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[136]只出现一次的数字.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[283]移动零.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[202]快乐数.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[268]缺失数字.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[38]报数.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[191]位1的个数.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[344]反转字符串.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[118]杨辉三角.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[412]Fizz Buzz.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[13]罗马数字转整数.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[217]存在重复元素.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[155]最小栈.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[160]相交链表.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[190]颠倒二进制位.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[326]3的幂.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[66]加一.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[387]字符串中的第一个唯一字符.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[172]阶乘后的零.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[20]有效的括号.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[28]实现 strStr().js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[125]验证回文串.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[141]环形链表.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[234]回文链表.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[69]x 的平方根.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[14]最长公共前缀.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[7]整数反转.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[204]计数质数.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[22]括号生成.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[94]二叉树的中序遍历.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[230]二叉搜索树中第K小的元素.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[289]生命游戏.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[48]旋转图像.js" />
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[108]将有序数组转换为二叉搜索树.js">
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[136]只出现一次的数字.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[283]移动零.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[202]快乐数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[268]缺失数字.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="27" column="3" lean-forward="true" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[38]报数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[191]位1的个数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[169]求众数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[344]反转字符串.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="47" selection-start-line="47" selection-end-line="48" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[118]杨辉三角.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[412]Fizz Buzz.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[13]罗马数字转整数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[371]两整数之和.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[217]存在重复元素.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[155]最小栈.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[160]相交链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="100" column="35" lean-forward="true" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[190]颠倒二进制位.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[326]3的幂.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[66]加一.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="36" column="19" lean-forward="true" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[387]字符串中的第一个唯一字符.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[172]阶乘后的零.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[20]有效的括号.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="74" column="2" lean-forward="true" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[28]实现 strStr().js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="44" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[125]验证回文串.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[141]环形链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[234]回文链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[69]x 的平方根.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[14]最长公共前缀.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[7]整数反转.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[204]计数质数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[22]括号生成.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[94]二叉树的中序遍历.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[230]二叉搜索树中第K小的元素.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[289]生命游戏.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[48]旋转图像.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="53" column="37" lean-forward="true" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+        <state relative-caret-position="592">
+          <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
         </state>
       </provider>
     </entry>
