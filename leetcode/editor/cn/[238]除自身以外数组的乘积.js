@@ -30,13 +30,12 @@ var productExceptSelf = function(nums) {
   tempVal = 1
   // 右边
   for (let i = len - 1; i >= 0; i--) {
-    result[i] = tempVal
+    result[i] *= tempVal
     tempVal *= nums[i]
   }
-
   return result
 };
 
-const nums = [1,2,3,4]
+const nums = [1, 2, 3, 4, 5, 6, 7, 8]
 productExceptSelf(nums)
 //leetcode submit region end(Prohibit modification and deletion)
