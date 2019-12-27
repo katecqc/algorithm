@@ -43,14 +43,17 @@
  */
 var oddEvenList = function(head) {
   if (head === null) return null
+  // 4个指针
   let [odd, even] = [head, head.next]
   let evenHead = even
   while (even !== null && even.next !== null) {
+    // 指针循环
     odd.next = even.next
     odd = odd.next
     even.next = odd.next
     even = even.next
   }
+  // 将偶数链表接在奇数链表后面
   odd.next = evenHead
   return head
 };
