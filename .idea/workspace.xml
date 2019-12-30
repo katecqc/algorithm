@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3d7b1eb-1eb9-4a81-b803-01509b4ad57b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[454]四数相加 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[454]四数相加 II.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[454]四数相加 II.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/all.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
+            <state relative-caret-position="360">
               <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
@@ -36,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[328]奇偶链表.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="622">
+            <state relative-caret-position="1080">
               <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
             </state>
           </provider>
@@ -45,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[454]四数相加 II.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+            <state relative-caret-position="390">
+              <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -228,7 +230,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.[48]旋转图像.js">
+  <component name="RunManager" selected="Node.js.[454]四数相加 II.js">
     <configuration name="[204]计数质数.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[204]计数质数.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
@@ -238,19 +240,19 @@
     <configuration name="[289]生命游戏.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[289]生命游戏.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[48]旋转图像.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[48]旋转图像.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[454]四数相加 II.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[454]四数相加 II.js" working-dir="$PROJECT_DIR$/leetcode/editor/cn">
       <method v="2" />
     </configuration>
-    <configuration name="[7]整数反转.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[7]整数反转.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
+    <configuration name="[48]旋转图像.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="[48]旋转图像.js" working-dir="$PROJECT_DIR$/leetcode-plugin/cn">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.[454]四数相加 II.js" />
         <item itemvalue="Node.js.[48]旋转图像.js" />
         <item itemvalue="Node.js.[289]生命游戏.js" />
         <item itemvalue="Node.js.[22]括号生成.js" />
         <item itemvalue="Node.js.[204]计数质数.js" />
-        <item itemvalue="Node.js.[7]整数反转.js" />
       </list>
     </recent_temporary>
   </component>
@@ -283,6 +285,8 @@
       <workItem from="1576147434437" duration="1324000" />
       <workItem from="1576459851701" duration="14779000" />
       <workItem from="1577411542196" duration="10302000" />
+      <workItem from="1577442852858" duration="44000" />
+      <workItem from="1577667730601" duration="2417000" />
     </task>
     <task id="LOCAL-00001" summary="删除重复的文件">
       <created>1562554280884</created>
@@ -515,34 +519,41 @@
       <option name="project" value="LOCAL" />
       <updated>1577411706805</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="练习：四数相加">
+      <created>1577442890133</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1577442890133</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="607886000" />
+    <option name="totallyTimeSpent" value="610347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13235295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13394277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" weight="0.33982852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" visible="true" weight="0.33982852" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39828527" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32969603" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49960256" visible="true" weight="0.33593142" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49960256" weight="0.33593142" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039744" side_tool="true" weight="0.335152" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.15620032" />
+      <window_info active="true" anchor="right" id="leetcode" order="3" side_tool="true" visible="true" weight="0.15620032" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +581,8 @@
     <MESSAGE value="位运算代码注释" />
     <MESSAGE value="LeetCode Top面试题练习" />
     <MESSAGE value="练习：奇偶链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="练习：奇偶链表" />
+    <MESSAGE value="练习：四数相加" />
+    <option name="LAST_COMMIT_MESSAGE" value="练习：四数相加" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leetcode-plugin/cn/[63]不同路径 II.js" />
@@ -640,13 +652,6 @@
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[2]两数相加.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -656,15 +661,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[328]奇偶链表.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
+        <state relative-caret-position="1080">
           <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/editor/cn/[454]四数相加 II.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        <state relative-caret-position="390">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
         </state>
       </provider>
     </entry>
